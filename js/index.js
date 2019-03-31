@@ -106,7 +106,7 @@
   }
 }( jQuery ));
 
-$('#ActivityDIV'   ).makeSVGcolor('https://gist.githack.com/testforautism/72821e69fa61247b5d2e97fe8ea5e084/raw/05e409f2e9faa5c4dc519f0da0435111460c20bd/colorit.svg')
+$('#ActivityDIV'   ).makeSVGcolor('images/colorit.svg')
 $('#btnRandom'     ).btnRandom()
 $('#btnClear'      ).btnClear()
 $('#btnDownloadSVG').btnDownload()
