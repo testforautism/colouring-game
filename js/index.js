@@ -106,7 +106,7 @@
   }
 }( jQuery ));
 
-$('#ActivityDIV'   ).makeSVGcolor('colorit.svg')
+$('#ActivityDIV'   ).makeSVGcolor('./images/colorit.svg')
 $('#btnRandom'     ).btnRandom()
 $('#btnClear'      ).btnClear()
 $('#btnDownloadSVG').btnDownload()
